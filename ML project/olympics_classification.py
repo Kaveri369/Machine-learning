@@ -350,6 +350,23 @@ else:
     plt.text(0.5, 0.5, "No usable height/weight records", ha="center", va="center")
     plt.axis("off")
 save_current_figure("height_weight_scatter.png")
+# ============================================================
+ # Graph 6: Box Plots for Outlier Detection
+# ============================================================
+
+numeric_columns = ["Age", "Height", "Weight"]
+
+for col in numeric_columns:
+    values = pd.to_numeric(df[col], errors="coerce").dropna()
+
+    plt.figure(figsize=(9, 4))
+    sns.boxplot(x=values)
+
+    plt.title(f"Box Plot of {col}")
+    plt.xlabel(col)
+    plt.tight_layout()
+
+    save_current_figure(f"boxplot_{col.lower()}.png")
 
 # ============================================================
 # SECTION 6: FEATURE ENGINEERING
