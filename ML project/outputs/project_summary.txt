@@ -1,0 +1,20 @@
+OLYMPIC SPORT CLASSIFICATION PROJECT SUMMARY
+================================================
+Dataset: athlete_events.csv
+Valid target records: 271116
+Number of sports: 66
+Split strategy: GroupShuffleSplit by athlete ID
+Training records: 216741
+Testing records: 54375
+Vocabulary size: 31
+
+Multinomial Naive Bayes metrics:
+Accuracy: 0.2443
+Macro Precision: 0.0944
+Macro Recall: 0.1085
+Macro F1: 0.0770
+Weighted F1: 0.1884
+
+See classification_report.txt, evaluation_metrics.csv,
+model_comparison.csv, feature_ablation.csv, and PNG graphs
+in the outputs folder.

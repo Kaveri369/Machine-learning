@@ -1,0 +1,6 @@
+Actual Sport,Predicted Sport,Correct,Top 3 Predictions
+Basketball,Athletics,False,Athletics (16.9%) | Swimming (13.5%) | Canoeing (11.1%)
+Football,Gymnastics,False,Gymnastics (15.1%) | Fencing (12.8%) | Art Competitions (10.5%)
+Cross Country Skiing,Ice Hockey,False,Ice Hockey (38.5%) | Bobsleigh (26.0%) | Biathlon (9.9%)
+Cross Country Skiing,Ice Hockey,False,Ice Hockey (38.5%) | Bobsleigh (26.0%) | Biathlon (9.9%)
+Cross Country Skiing,Ice Hockey,False,Ice Hockey (38.5%) | Bobsleigh (26.0%) | Biathlon (9.9%)

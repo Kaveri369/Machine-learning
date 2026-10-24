@@ -1,0 +1,16 @@
+Column,Data Type,Missing Count,Missing Percentage,Unique Values
+ID,int64,0,0.0,135571
+Name,str,0,0.0,134732
+Sex,str,0,0.0,2
+Age,float64,9474,3.49,74
+Height,float64,60171,22.19,95
+Weight,float64,62875,23.19,220
+Team,str,0,0.0,1184
+NOC,str,0,0.0,230
+Games,str,0,0.0,51
+Year,int64,0,0.0,35
+Season,str,0,0.0,2
+City,str,0,0.0,42
+Sport,str,0,0.0,66
+Event,str,0,0.0,765
+Medal,str,231333,85.33,3

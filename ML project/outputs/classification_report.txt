@@ -1,0 +1,71 @@
+Multinomial Naive Bayes Classification Report
+
+                           precision    recall  f1-score   support
+
+            Alpine Skiing       0.33      0.36      0.35      1618
+                 Alpinism       0.05      0.67      0.09         3
+                  Archery       0.00      0.00      0.00       481
+         Art Competitions       0.15      0.92      0.25       745
+                Athletics       0.24      0.51      0.32      7790
+                Badminton       0.00      0.00      0.00       277
+                 Baseball       0.07      0.06      0.07       188
+               Basketball       0.28      0.19      0.23       910
+         Beach Volleyball       0.00      0.00      0.00       125
+                 Biathlon       0.20      0.16      0.18       996
+                Bobsleigh       0.29      0.46      0.35       604
+                   Boxing       0.00      0.00      0.00      1201
+                 Canoeing       0.00      0.00      0.00      1211
+                  Cricket       0.00      0.00      0.00         4
+                  Croquet       0.00      0.00      0.00         4
+     Cross Country Skiing       0.28      0.43      0.34      1759
+                  Curling       0.31      0.04      0.06       114
+                  Cycling       0.00      0.00      0.00      2036
+                   Diving       0.00      0.00      0.00       558
+            Equestrianism       0.38      0.20      0.26      1229
+                  Fencing       0.09      0.02      0.03      2145
+           Figure Skating       0.30      0.17      0.22       445
+                 Football       0.00      0.00      0.00      1450
+         Freestyle Skiing       0.00      0.00      0.00       176
+                     Golf       0.00      0.00      0.00        45
+               Gymnastics       0.29      0.56      0.38      5515
+                 Handball       0.05      0.00      0.01       738
+                   Hockey       0.00      0.00      0.00      1105
+               Ice Hockey       0.22      0.43      0.30      1088
+             Jeu De Paume       0.00      0.00      0.00         1
+                     Judo       0.20      0.00      0.00       779
+                 Lacrosse       0.00      0.00      0.00        13
+                     Luge       0.00      0.00      0.00       318
+      Military Ski Patrol       0.00      0.00      0.00         3
+        Modern Pentathlon       0.00      0.00      0.00       363
+             Motorboating       0.00      0.00      0.00         4
+          Nordic Combined       0.00      0.00      0.00       298
+                     Polo       0.00      0.00      0.00        22
+      Rhythmic Gymnastics       0.08      0.29      0.12       123
+                    Roque       0.00      0.00      0.00         2
+                   Rowing       0.14      0.29      0.19      2122
+                    Rugby       0.00      0.00      0.00        35
+             Rugby Sevens       0.00      0.00      0.00        72
+                  Sailing       0.12      0.01      0.03      1348
+                 Shooting       0.35      0.16      0.22      2268
+Short Track Speed Skating       0.09      0.14      0.11       359
+                 Skeleton       0.00      0.00      0.00        46
+              Ski Jumping       0.19      0.18      0.19       416
+             Snowboarding       0.00      0.00      0.00       188
+                 Softball       0.00      0.00      0.00        96
+            Speed Skating       0.00      0.00      0.00      1146
+                 Swimming       0.43      0.31      0.36      4780
+    Synchronized Swimming       0.06      0.19      0.09       207
+             Table Tennis       0.04      0.01      0.02       350
+                Taekwondo       0.00      0.00      0.00       105
+                   Tennis       0.00      0.00      0.00       622
+             Trampolining       0.00      0.00      0.00        24
+                Triathlon       0.00      0.00      0.00        91
+               Tug-Of-War       0.33      0.02      0.05        41
+               Volleyball       0.16      0.03      0.05       665
+               Water Polo       0.00      0.00      0.00       720
+            Weightlifting       0.25      0.00      0.00       787
+                Wrestling       0.00      0.00      0.00      1401
+
+                 accuracy                           0.24     54375
+                macro avg       0.09      0.11      0.08     54375
+             weighted avg       0.19      0.24      0.19     54375
